@@ -1,0 +1,31 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.16/tailwind.min.css';
+
+body {
+    background-color: #1a202c;
+    color: #a0aec0;
+}
+
+.slide {
+    margin: 2rem 0;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    background-color: #2d3748;
+}
+
+.slide-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #f7fafc;
+}
+
+.slide-content {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    color: #a0aec0;
+}
+
+.dark-theme {
+    background-color: #1a202c;
+    color: #a0aec0;
+}
